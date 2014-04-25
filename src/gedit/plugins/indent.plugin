@@ -1,0 +1,10 @@
+[Plugin]
+Loader=python
+Module=indent
+IAge=3
+Name=Change Indent
+Description=A change indent plugin.
+Authors=Jong-Ha Ahn
+Copyright=Copyright (c) 2014 Jong-Ha Ahn
+Website=http://www.mrlatte.net
+Version=1.0.0
