@@ -14,4 +14,4 @@ Copy the files indent.py and indent.plugin to ~/.local/share/gedit/plugins and r
 
 ## License
 
-gedit Indent Plugin is available under the terms of the MIT License.
+gedit-indent Plugin is available under the terms of the MIT License.
