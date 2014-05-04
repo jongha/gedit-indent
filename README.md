@@ -1,6 +1,6 @@
 # gedit Indent Plugin
 
-There are many coding conventions for each programming language. Some programming languages suggest to use two spaces to indent the code and other sites suggest to use tabs to indent the code. This plugin supports indent changing. It can convert from one style of writing to another. It can be used to make code easier to read and support shortcut(<control><alt>i) to change quickly. Please refer to the installation details below.
+There are many coding conventions for each programming language. Some programming languages suggest to use two spaces to indent the code and other sites suggest to use tabs to indent the code. This plugin supports indent changing. It can convert from one style of writing to another. It can be used to make code easier to read and support shortcut(Ctrl + Alt + i) to change quickly. Please refer to the installation details below.
 
 ## Screenshot
 
